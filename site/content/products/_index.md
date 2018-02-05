@@ -9,20 +9,20 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/validate.png
       text: |
         Avoid building a product no one wants. 
 
         Develop, validate and execute new opportunities using key business tools
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/tech.png
       text: >
         Build a reliable product with scalable technology & agile methodologies
         that enables you to response and claims your share in the market.
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/lterate.png
       text: >-
         Iterate and improve your product through Lean UX and product strategy to
         create more value for your customers.
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/growth.png
       text: >-
         If user growth has slowed, your product use is dwindling, and churn
         rates are increasing… We’ll work with you to put a plan into action that
