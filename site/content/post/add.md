@@ -2,8 +2,8 @@
 title: Static Site with CMS
 date: 2018-02-05T12:08:52.929Z
 description: >-
-  Get the speed, security, and scalability of a static site, while still
-  providing a convenient editing interface for content.
+  Get the speed, security, and scalability of a static site, couple with a CMS
+  provide a convenient editing interface for content. 
 image: /img/netlify-cms.png
 ---
 Having the CMS in place gives content people the ability save content while in the production admin interface. All changes through the CMS still create a copy of the content to the website GitHub account.
