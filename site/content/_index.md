@@ -12,16 +12,14 @@ blurb:
 intro:
   heading: What we offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    From Product Marketing, Data Analyst to Pitching for capital, we are a team
+    of individuals with combine experience of 30 years to help you. 
 products: []
 values:
   heading: Our values
   text: >-
     We work best with business owner ready to take on the approach of testing
     and iteration. There is no silver bullet and expecting instant results.
-    Learn, Develop, Validate opportunities.
+    Learn, Develop, Validate every step of the way.
 ---
 
