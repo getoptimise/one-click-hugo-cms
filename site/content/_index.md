@@ -1,6 +1,6 @@
 ---
 title: Build a Business.
-subtitle: 'Don''t just build an App, Website, SaaS, Marketplace'
+subtitle: 'Don''t just build a Digital Product'
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Us?
