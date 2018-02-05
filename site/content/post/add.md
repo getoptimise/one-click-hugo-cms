@@ -6,9 +6,9 @@ description: >-
   providing a convenient editing interface for content.
 image: /img/netlify-cms.png
 ---
-Get the speed, security, and scalability of a static site, while still providing a convenient editing interface for content.
+Having the CMS in place gives content people the ability save content while in the production admin interface. All changes through the CMS still create a copy of the content to the website GitHub account.
 
-Having the CMS in place now gives us the ability save content while in the production admin interface. All changes through the CMS still create a copy of this content is created and save to your GitHub account.
+Your content contributor no longer need to set up a GitHub account, navigation thru those folder to make changes to the static site. 
 
 Documentation: 
 
