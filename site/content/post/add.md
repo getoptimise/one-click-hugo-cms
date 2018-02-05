@@ -1,7 +1,9 @@
 ---
-title: 'Add '
+title: Static Site with CMS
 date: 2018-02-05T12:08:52.929Z
-description: 'Static Site with CMS '
+description: >-
+  Get the speed, security, and scalability of a static site, while still
+  providing a convenient editing interface for content.
 image: /img/netlify-cms.png
 ---
 Get the speed, security, and scalability of a static site, while still providing a convenient editing interface for content.
