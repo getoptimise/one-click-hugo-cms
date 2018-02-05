@@ -16,48 +16,39 @@ intro:
         Develop, validate and execute new opportunities using key business tools
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        BUILD YOUR PRODUCT
-
-
         Build a reliable product with scalable technology & agile methodologies
-        that claims your share in the market.
+        that enables you to response and claims your share in the market.
     - image: /img/illustrations-tutorials.svg
       text: >-
-        GROW YOUR BUSINESS
-
-
         Iterate and improve your product through Lean UX and product strategy to
         create more value for your customers.
     - image: /img/illustrations-meeting-space.svg
       text: >-
-        Growth and Retention
-
-
         If user growth has slowed, your product use is dwindling, and churn
         rates are increasing… We’ll work with you to put a plan into action that
         will dissect, analyse, and set goals to tackle your most valuable
         opportunities first.
   heading: What we offer
-  description: >
+  description: >-
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    knowledge to anyone. 
 main:
   heading: Your Way
   description: >-
     Whether you need help to search for a business model or to execute a
     business model you’ve already found, we’re always interested in hearing from
-    you.
+    you how we can help. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: ''
+    image: ''
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: ''
+    image: ''
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: ''
+    image: ''
 testimonials: []
 full_image: /img/products-full-width.jpg
 pricing:
