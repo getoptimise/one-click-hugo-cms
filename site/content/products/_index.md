@@ -10,12 +10,14 @@ description: >-
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: >
-        Avoid building a product no one wants. Develop, validate and execute new
-        opportunities using key business tools
+      text: |
+        Avoid building a product no one wants. 
+
+        Develop, validate and execute new opportunities using key business tools
     - image: /img/illustrations-coffee-gear.svg
       text: >
         BUILD YOUR PRODUCT
+
 
         Build a reliable product with scalable technology & agile methodologies
         that claims your share in the market.
@@ -23,11 +25,13 @@ intro:
       text: >-
         GROW YOUR BUSINESS
 
+
         Iterate and improve your product through Lean UX and product strategy to
         create more value for your customers.
     - image: /img/illustrations-meeting-space.svg
       text: >-
         Growth and Retention
+
 
         If user growth has slowed, your product use is dwindling, and churn
         rates are increasing… We’ll work with you to put a plan into action that
