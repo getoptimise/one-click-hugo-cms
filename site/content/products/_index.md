@@ -52,11 +52,8 @@ main:
 testimonials: []
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: 'Build, Measure, Learn'
+  description: All work is done in two-week sprints. Cancel any time.
   plans:
     - description: Early Stage before product is being build
       items:
