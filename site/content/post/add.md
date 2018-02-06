@@ -6,7 +6,9 @@ description: >-
   world. Ease of updating for non-technical user and get the speed, security and
   scalability of Static Site.  Static Site Generator take the content stored in
   flat file rather than databases, apply it against layouts or templates and
-  generate a structure of purely static HTML files. 
+  generate a structure of purely static HTML files. The JAMstack (Javascript,
+  APIs, and Markup) gain momentum in modern web development
+  https://jamstack.org/
 image: /img/netlify-cms.png
 ---
 Having the CMS in place gives content people the ability save content while in the production admin interface. All changes through the CMS still create a copy of the content to the website GitHub account.
