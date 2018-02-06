@@ -4,7 +4,9 @@ date: 2018-02-05T12:08:52.929Z
 description: >-
   Pair up your Static Site Generator with Netlify CMS to have the best of both
   world. Ease of updating for non-technical user and get the speed, security and
-  scalability. 
+  scalability of Static Site.  Static Site Generator take the content stored in
+  flat file rather than databases, apply it against layouts or templates and
+  generate a structure of purely static HTML files. 
 image: /img/netlify-cms.png
 ---
 Having the CMS in place gives content people the ability save content while in the production admin interface. All changes through the CMS still create a copy of the content to the website GitHub account.
