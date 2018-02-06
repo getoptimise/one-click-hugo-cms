@@ -74,9 +74,9 @@ pricing:
       price: '800'
     - description: 'Business model established '
       items:
-        - If we like what you do
-        - hire us to be the first 20 employees.
-      plan: Custom
-      price: '55,000 per year'
+        - Iterate and improve your product
+        - whatever you need
+      plan: Growth and Retention
+      price: '?'
 ---
 
