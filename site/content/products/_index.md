@@ -58,27 +58,25 @@ pricing:
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Early Stage before product is being build
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans
-        - One or two varieties of beans
-        - One or two varieties of beans
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - Market Validation
+        - Customer Development
+        - Identified Customer Pain Point
+      plan: Hypothesis
+      price: '499'
+    - description: 'Product version 1.0 is roll out to scratch customer itch '
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Validated Market
+        - Early Access
+        - Open Beta
+      plan: Product Development
+      price: '800'
+    - description: 'Business model established '
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - If we like what you do
+        - hire us to be the first 20 employees.
       plan: Custom
-      price: '?'
+      price: '55,000 per year'
 ---
 
