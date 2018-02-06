@@ -1,12 +1,12 @@
 ---
 title: Our Coffee
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: What we do
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We prioritize learning to create experiments and prototypes to validate the
+  problem and market you're trying to serve, build scalable software to create
+  value for your users, and create additional growth opportunities through UX
+  and UI iteration.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -61,8 +61,9 @@ pricing:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
         - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Green or roasted beans
+        - One or two varieties of beans
+        - One or two varieties of beans
       plan: Small
       price: '50'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
