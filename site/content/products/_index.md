@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Our Price
 image: /img/products-jumbotron.jpg
 heading: What we do
 description: >-
@@ -9,20 +9,20 @@ description: >-
   and UI iteration.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: ''
       text: |
         Avoid building a product no one wants. 
 
         Develop, validate and execute new opportunities using key business tools
-    - image: /img/illustrations-coffee-gear.svg
+    - image: ''
       text: >
         Build a reliable product with scalable technology & agile methodologies
         that enables you to response and claims your share in the market.
-    - image: /img/illustrations-tutorials.svg
+    - image: ''
       text: >-
         Iterate and improve your product through Lean UX and product strategy to
         create more value for your customers.
-    - image: /img/illustrations-meeting-space.svg
+    - image: ''
       text: >-
         If user growth has slowed, your product use is dwindling, and churn
         rates are increasing… We’ll work with you to put a plan into action that
@@ -30,10 +30,10 @@ intro:
         opportunities first.
   heading: What we offer
   description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. 
+    We know that our consulting fees are non-trivial for very early-stage
+    businesses. If you don’t believe you’re ready for this level of commitment,
+    we’re still open to having a get-to-know-you conversation so that you can
+    plan your budget after your next fundraise.
 main:
   heading: Your Way
   description: >-
