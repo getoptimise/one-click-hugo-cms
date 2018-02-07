@@ -12,14 +12,15 @@ blurb:
 intro:
   heading: What we offer
   text: >-
-    From Product Marketing, Data Analyst to Pitching for capital, we are a team
-    of individuals with combine experience of 30 years to help you. 
+    From Product Marketing, Data Analytics to Pitching for capital, we are a
+    team of individuals with combine experience of 30 years to help you. 
 products: []
 values:
   heading: Our values
   text: >-
     We work best with business owner ready to take on the approach of testing
-    and iteration. There is no silver bullet and expecting instant results.
-    Learn, Develop, Validate every step of the way.
+    and iteration. We also work with established brands in need of something
+    new. There is no silver bullet and expecting instant results. Learn,
+    Develop, Validate every step of the way.
 ---
 
