@@ -6,7 +6,7 @@ description: >-
   increasing… We’ll work with you to put a plan into action that will dissect,
   analyse, and set goals to tackle your most valuable opportunities first.
 ---
-Before a code is ever written, use Google Ads, landing pages to explore line of interest.
+
 
 Mini Case Study
 
